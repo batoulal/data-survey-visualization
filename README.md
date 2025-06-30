@@ -20,10 +20,11 @@ This dashboard includes:
 ## 📷 Project Snapshots
 
 ### 🔹 Main Analytical Dashboard:
-![Main Dashboard](C:\Users\dream\Downloads\dashborad\DPS\Card.png)
+![Card](https://github.com/user-attachments/assets/d67ed61b-acf9-4221-802e-ed1e646ba304)
 
 ### 🔹 Participant Satisfaction Metrics:
-![Survey Metrics](C:\Users\dream\Downloads\dashborad\DPS\Details.png)
+![Details](https://github.com/user-attachments/assets/d2eb7067-2225-404b-85fa-73c5bc2d0ecb)
+
 
 ## 🛠️ Technologies Used
 
