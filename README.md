@@ -2,6 +2,11 @@
 
 An interactive visual analysis of survey data from data professionals around the world. This project aims to uncover insights about job satisfaction, salary expectations, programming preferences, and challenges in breaking into the data field.
 
+
+## 📌 Notes
+- The project was adapted from the channel (Alex The Analyst)
+
+
 ## 🧩 Project Overview
 
 This dashboard includes:
@@ -44,10 +49,3 @@ This project is designed to help:
 - Understand real-world challenges in data careers.
 - Compare role-specific trends (e.g., Data Analyst vs Data Engineer).
 - Support career or organizational decisions using data-driven insights.
-
-## 📌 Notes
-
-- The project was adapted from the channel (Alex The Analyst)
-- Based on actual survey data from global respondents.
-- Can be extended with interactive slicers or AI-based sentiment analysis.
-
